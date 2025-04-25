@@ -112,7 +112,7 @@ https://github.com/SatyamSingh343/Credit_Risk_Management
 
 2. Navigate to the cloned repository directory:
 <pre>
-cd Credit-Risk-Prediction-German-Bank
+cd Credit_Risk_Management
 </pre>
 
 3. Create a virtual environment:
