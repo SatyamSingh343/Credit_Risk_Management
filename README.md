@@ -107,7 +107,7 @@ Once you have this installed, open a terminal on your local machine and run the 
 
 1. Clone the repository:
 <pre>
-
+https://github.com/SatyamSingh343/Credit_Risk_Management
 </pre>
 
 2. Navigate to the cloned repository directory:
